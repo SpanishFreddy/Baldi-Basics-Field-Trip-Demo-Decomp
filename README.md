@@ -7,4 +7,4 @@ The Unity version of this decomp is: 2018.2.19f1
 
 ![Captura de pantalla 2024-01-25 220455](https://github.com/SpanishFreddy/Baldi-Basics-Field-Trip-Demo-Decomp/assets/121837347/9232a55e-4021-4cb8-bf38-1938f9158a5c)
 
-If you like Unity and you know how to do decomps/ports, you can help me whit the code talking with me in discord: @SpanishFreddy
+If you like Unity and you know how to do decomps/ports, you can help me with the code talking with me in discord: @SpanishFreddy
